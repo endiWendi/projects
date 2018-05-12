@@ -1,0 +1,5 @@
+*.pyc
+/Observer/.classpath
+/Observer/.project
+/Observer/bin
+/Observer/.settings
